@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "yours",
+  "base_artist": "chilldspot",
+  "createdAt": "2026-01-13T18:25:38.036426Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yours",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Yours_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God Is a Woman (Yours Truly: 2018)",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/02_God_Is_a_Woman_(Yours_Truly__2018)_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Psycho (Yours Truly: 2018)",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/03_Psycho_(Yours_Truly__2018)_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slow Burn (Yours Truly: 2018)",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/04_Slow_Burn_(Yours_Truly__2018)_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The World Ain't Yours and Mine",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/05_The_World_Ain't_Yours_and_Mine_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yours",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/06_Yours_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/07_I'm_Yours_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yours Is No Disgrace",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/08_Yours_Is_No_Disgrace_Yes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Yours",
+      "artist": "Lucky Soul",
+      "has_synced": false,
+      "path": "select/09_It's_Yours_Lucky_Soul.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fatally Yours",
+      "artist": "Alkaline Trio",
+      "has_synced": true,
+      "path": "select/10_Fatally_Yours_Alkaline_Trio.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mine Is In Yours",
+      "artist": "Mouse On Mars",
+      "has_synced": false,
+      "path": "select/11_Mine_Is_In_Yours_Mouse_On_Mars.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take What's Yours",
+      "artist": "Mase feat. DMX",
+      "has_synced": true,
+      "path": "select/12_Take_What's_Yours_Mase_feat._DMX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Whats Yours (Feat. DMX)",
+      "artist": "Mase",
+      "has_synced": true,
+      "path": "select/13_Take_Whats_Yours_(Feat._DMX)_Mase.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Rights Versus Yours",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/14_My_Rights_Versus_Yours_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/15_The_World_Is_Yours_Nas.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The World Is Yours (Remix)",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/16_The_World_Is_Yours_(Remix)_Nas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "yours",
+      "artist": "chilldspot",
+      "has_synced": false,
+      "path": "select/pl_01_yours_chilldspot.txt"
+    }
+  ]
+}
